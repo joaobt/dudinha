@@ -12,7 +12,7 @@ const buttonVariants = {
     secondary:'orange',
     danger:'red',
     success:'green',
-    neutral:'yellow',
+    neutral:'blue',
 }
 
 export const ButtonContainer = styled.button<ButtonContainerProps>`
