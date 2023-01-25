@@ -20,6 +20,7 @@ width: 100px;
 height: 48px;
 
 ${props => {
-    return css`background-color: ${buttonVariants[props.variant]}`;
+    return css
+    `background-color: ${buttonVariants[props.variant]}`;
 }}
 `
